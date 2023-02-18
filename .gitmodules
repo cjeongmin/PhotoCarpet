@@ -1,9 +1,10 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-Backend.git
-[submodule "android-frontend"]
-	path = android-frontend
-	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-Android.git
-[submodule "ios-frontend"]
-	path = ios-frontend
+
+[submodule "iOS"]
+	path = iOS
 	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-iOS.git
+[submodule "server"]
+	path = server
+	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-Backend.git
+[submodule "android"]
+	path = android
+	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-Android.git
