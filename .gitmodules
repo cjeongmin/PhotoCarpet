@@ -1,7 +1,7 @@
 
 [submodule "iOS"]
 	path = iOS
-	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-iOS.git
+	url = https://github.com/cjeongmin/PhotoCarpet-iOS.git
 [submodule "server"]
 	path = server
 	url = https://github.com/KOSS-Photocarpet/PhotoCarpet-Backend.git
